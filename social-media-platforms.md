@@ -1,7 +1,5 @@
 ### Traffic
-
 ### Facebook
-
 * facebook-comments
 * facebook-followers
 * facebook-impressions
@@ -17,7 +15,6 @@
 * facebook-subscribers
 * facebook-views
 ### Instagram
-
 * instagram-comments
 * instagram-followers
 * instagram-hashtag-mentions
@@ -41,7 +38,6 @@
 * instagram-swipe-up
 * instagram-views
 ### YouTube
-
 * youtube-comments
 * youtube-followers
 * youtube-likes
@@ -55,7 +51,6 @@
 * youtube-subscribers
 * youtube-views
 ### Twitch
-
 * twitch-bits
 * twitch-channel-engagements
 * twitch-clip-views
@@ -73,7 +68,6 @@
 * twitch-video-views
 * twitch-views
 ### Spotify
-
 * spotify-comments
 * spotify-followers
 * spotify-likes
@@ -85,9 +79,7 @@
 * spotify-saves
 * spotify-stars
 ### Other
-
 ### Telegram
-
 * telegram-bot-interactions
 * telegram-bot-referrals
 * telegram-comments
@@ -102,7 +94,6 @@
 * telegram-subscribers
 * telegram-views
 ### Kick.com
-
 * kick.com-chatbots
 * kick.com-comments
 * kick.com-followers
@@ -116,7 +107,6 @@
 * kick.com-subscribers
 * kick.com-views
 ### Twitter
-
 * twitter-bookmarks
 * twitter-comments
 * twitter-followers
@@ -137,7 +127,6 @@
 * twitter-video-views
 * twitter-views
 ### TikTok
-
 * tiktok-comments
 * tiktok-followers
 * tiktok-likes
@@ -151,7 +140,6 @@
 * tiktok-subscribers
 * tiktok-views
 ### Soundcloud
-
 * soundcloud-comments
 * soundcloud-followers
 * soundcloud-impressions
@@ -161,7 +149,6 @@
 * soundcloud-reposts
 * soundcloud-views
 ### LinkedIn
-
 * linkedin-comments
 * linkedin-connections
 * linkedin-followers
@@ -171,7 +158,6 @@
 * linkedin-shares
 * linkedin-views
 ### Snapchat
-
 * snapchat-comments
 * snapchat-followers
 * snapchat-likes
@@ -180,7 +166,6 @@
 * snapchat-subscribes
 * snapchat-views
 ### Rumble
-
 * rumble-comments
 * rumble-followers
 * rumble-likes
@@ -193,7 +178,6 @@
 * rumble-subscribers
 * rumble-views
 ### Shopee
-
 * shopee-comments
 * shopee-followers
 * shopee-listeners
@@ -205,7 +189,6 @@
 * shopee-views
 * shopee-website-traffic
 ### Reddit
-
 * reddit-comments
 * reddit-followers
 * reddit-impressions
@@ -215,25 +198,21 @@
 * reddit-upvotes
 * reddit-views
 ### Threads
-
 * threads-comments
 * threads-followers
 * threads-likes
 * threads-reshares
 ### Bluesky
-
 * bluesky-comments
 * bluesky-followers
 * bluesky-likes
 * bluesky-retweets
 ### Trovo
-
 * trovo-comments
 * trovo-followers
 * trovo-live-views
 * trovo-views
 ### Quora.com
-
 * quora.com-comments
 * quora.com-followers
 * quora.com-impressions
@@ -247,13 +226,11 @@
 * quora.com-subscribers
 * quora.com-views
 ### Clubhouse
-
 * clubhouse-followers
 * clubhouse-members
 * clubhouse-room-visits
 * clubhouse-views
 ### VK.com
-
 * vk.com-comments
 * vk.com-followers
 * vk.com-friends
@@ -271,11 +248,9 @@
 * vk.com-traffic
 * vk.com-views
 ### Sooplive
-
 * sooplive-live-views
 * sooplive-views
 ### Shopify
-
 * shopify-comments
 * shopify-likes
 * shopify-listeners
@@ -286,31 +261,25 @@
 * shopify-subscribers
 * shopify-views
 ### CoinMarketCap
-
 * coinmarketcap-comments
 * coinmarketcap-followers
 * coinmarketcap-likes
 * coinmarketcap-plays/reposts
 * coinmarketcap-views
 ### Binance Square
-
 * binance_square-bookmarks
 * binance_square-comments
 * binance_square-followers
 * binance_square-likes
 * binance_square-shares
 ### PandaTV
-
 * pandatv-views
 ### Openrec.tv
-
 * openrec.tv-views
 ### Mixch.tv
-
 * mixch.tv-live-views
 * mixch.tv-views
 ### Cloutsy
-
 * cloutsy-comments
 * cloutsy-followers
 * cloutsy-igtv
@@ -328,15 +297,12 @@
 * cloutsy-subscribers
 * cloutsy-views
 ### WhatsApp
-
 * whatsapp-comments
 * whatsapp-members
 * whatsapp-shares
 ### Naver TV
-
 * naver_tv-views
 ### DLive
-
 * dlive-comments
 * dlive-followers
 * dlive-live-views
